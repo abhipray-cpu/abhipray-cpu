@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **The original name for the search engine Google was "Backrub" - just imagine asking someone to "Backrub" that for you.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
