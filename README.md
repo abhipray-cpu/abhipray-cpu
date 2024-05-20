@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhipray Dumka</h1>
 <h3 align="center">Building Robust Solutions from Pixel to Server</h3>
-<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b3f3a.appspot.com/o/Page_Not_Found_-_Copy-removebg-preview.png?alt=media&token=69b43310-3cdd-4649-90a2-b347ca98416d" alt="Building Robust Solutions" width="400" align="left">
+<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b3f3a.appspot.com/o/Page_Not_Found_-_Copy-removebg-preview.png?alt=media&token=69b43310-3cdd-4649-90a2-b347ca98416d" alt="Building Robust Solutions" width="400" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipray-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="abhipray-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhipray-cpu" alt="abhipray-cpu" /></a> </p>
