@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Cappy Notes(A next gen task tracker that uses gamification to engage users)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-site-28c.pages.dev/](https://portfolio-site-28c.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://www.abhipray.one](https://www.abhipray.one)
 
 - 📝 I regularly write articles on [https://dumkaabhipray.wixsite.com/avi-talks](https://dumkaabhipray.wixsite.com/avi-talks)
 
